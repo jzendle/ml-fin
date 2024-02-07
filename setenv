@@ -1,0 +1,2 @@
+# export QUANDL_API_KEY=from quandl website
+export QT_QPA_PLATFORM=xcb
